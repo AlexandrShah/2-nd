@@ -1,0 +1,3 @@
+.WikiaArticle a.new{color:Aqua}.WikiaArticle a.new:visited{color:Aqua} .portable-infobox{border:1px solid #fff;background-color:#2d5665;color:#ffffff;padding:2px}.pi-title{text-align:center;background-color:#22404b}.pi-header{background-color:#22404b;color:#fff}.pi-horizontal-group-item{text-align:left} .Wall ul.comments > li.message > .speech-bubble-message{background:#2d5665}@media print{  }
+
+/* cache key: rugameofthrones:resourceloader:filter:minify-css:7:bdaa558a246c2405b18627e7a336e5c7 */
